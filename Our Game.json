@@ -1,0 +1,847 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 209,
+    "major": 5,
+    "minor": 4,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "default",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "7898407e-fd4a-4b3c-bfd1-08b4d8c0de27",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Our Game",
+    "description": "",
+    "author": "",
+    "windowWidth": 1920,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0.2,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h9.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h10.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h11.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h11.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h12.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h12.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h13.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h13.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h14.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h14.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h15.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h15.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h16.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h16.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h17.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h17.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h18.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h18.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h21.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h21.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h21.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h22.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h22.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h22.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h23.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h23.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h23.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h24.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h24.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h25.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h25.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Left.png\"}",
+        "name": "Left",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h26.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h26.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite.png\"}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Clean.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_Floor_Clean.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_Floor_Clean.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h30.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Up5.png\"}",
+        "name": "Up",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite.png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h31.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h33.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Up6.png\"}",
+        "name": "Up6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Up7.png\"}",
+        "name": "Up7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rogue_ow_sprite_by_gogoat1_deah8h34.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"rogue_ow_sprite_by_gogoat1_deah8h34.png\",\"extension\":\".png\"}",
+        "name": "rogue_ow_sprite_by_gogoat1_deah8h34.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Square.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Square.png\"}",
+        "name": "Square",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Down.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Down",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Down2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Down2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Down3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Down3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Down4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Down4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Left2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Left3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Left4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Left5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Right.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Right",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Right2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Right2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Right3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Right3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Right4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Right4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gun.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Gun.png\",\"extension\":\".png\"}",
+        "name": "f06936e9c60e8d2b498bc9b13df90335ce4f8bf9db7c4901562cd735033a04bc_Gun.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Wesxdz Game Assets/skullcup/Props/f06936e9c60e8d2b498bc9b13df90335ce4f8bf9db7c4901562cd735033a04bc_Gun.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite3.png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Grey Flat.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Wall Grey Flat.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "a490118d306d8a2db9ddddcc8bbfc28a5c2a0f0f07c6bf76958db479f9c1d907_Wall Grey Flat.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Wall/a490118d306d8a2db9ddddcc8bbfc28a5c2a0f0f07c6bf76958db479f9c1d907_Wall Grey Flat.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "Water Sound Effect.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Water Sound Effect.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "hitHurt.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "hitHurt.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Grey.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "50c2d6c8b76eaca8555e95cc08f0e9e64ac8b420fc676136f2b9adf763cc7188_Wall Grey.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Wall/50c2d6c8b76eaca8555e95cc08f0e9e64ac8b420fc676136f2b9adf763cc7188_Wall Grey.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Corner Front Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9b737eeded9b7ff7cbba567cc7cb5d5e177f97b4e097213a4c3bebc7ab5f49a0_Wall Corner Front Left.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/9b737eeded9b7ff7cbba567cc7cb5d5e177f97b4e097213a4c3bebc7ab5f49a0_Wall Corner Front Left.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Brick.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7acc54ff91d3d5e0a7b7e8b02e7bd5f691627aeb22ac36073d9098c1bd7fd9d7_Wall Brick.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Wall/7acc54ff91d3d5e0a7b7e8b02e7bd5f691627aeb22ac36073d9098c1bd7fd9d7_Wall Brick.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Brick Flat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2982a2d92818e1d6aaa0d818cee12569b6259f0ce5372dd402262a17be17f8b2_Wall Brick Flat.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Wall/2982a2d92818e1d6aaa0d818cee12569b6259f0ce5372dd402262a17be17f8b2_Wall Brick Flat.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/56d4ace5a22e0292d1c580d0c1fff0456390a12aa51aa7ba953e1836935c02b7_Red Orb_No Shadow.png",
+          "name": "Red Orb_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/0f6136d5704ee6fcb2fcf427a0ad1cbfd12a248da6fde77d778315d7b5ef39bd_Red Orb_Shadow.png",
+          "name": "Red Orb_Shadow.png"
+        }
+      },
+      {
+        "file": "fireball-whoosh-2-179126.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "fireball-whoosh-2-179126.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Treasure Chest_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Treasure Chest_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/7f362b8cb571527bfc063b4a140464df6850fdac2c0ac1b95819ccbe0772cae6_Treasure Chest_No Shadow.png",
+          "name": "Treasure Chest_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Treasure Chest_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Treasure Chest_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/29c5fdc5fe498d49e530a9aaf66a0089ff165b78322ab192e2fd32c3429d023e_Treasure Chest_Shadow.png",
+          "name": "Treasure Chest_Shadow.png"
+        }
+      },
+      {
+        "file": "item-pickup-37089.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "item-pickup-37089.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/lightning spell.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lightning spell.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Verboten Arcane Stash/Spells/64a9e07879cc0df3c857116ab45ea82eb3c77f555e71d0342eb088073d620e8f_lightning spell.png",
+          "name": "lightning spell.png"
+        }
+      },
+      {
+        "file": "lightening-bang-impact-40580.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "lightening-bang-impact-40580.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "lightning-strike-jeff-kaale-1-00-02.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "lightning-strike-jeff-kaale-1-00-02.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Squid Space Enemy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Squid Space Enemy.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Character/151b378b6837655c092c49ae0bd9905367b185e36e3e08f80ee68184eefced5a_Squid Space Enemy.png",
+          "name": "Squid Space Enemy.png"
+        }
+      },
+      {
+        "file": "assets/33 - adventure cats pirate radio.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "d9fa2f9e35959696723710be864b3d250deb4e5a3fa353adb0a3272dddc03a45_33 - adventure cats pirate radio.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Ragnar Random/Fakebit Chiptune Music/d9fa2f9e35959696723710be864b3d250deb4e5a3fa353adb0a3272dddc03a45_33 - adventure cats pirate radio.aac",
+          "name": "gdevelop-asset-store"
+        }
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "element",
+      "type": "string",
+      "value": "Fire"
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/untitled-scene"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/isonscreen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/firebullet"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/shakeobject"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/health"
+    }
+  ],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
